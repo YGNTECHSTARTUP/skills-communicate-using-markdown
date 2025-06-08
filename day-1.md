@@ -10,11 +10,6 @@
 - [ ] Convert my first blog post into an actual webpage.
 
 ## Review
-
-- [ ] This task is incomplete
-- [x] This task is completed
-
-
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
 ```bash
